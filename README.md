@@ -115,7 +115,7 @@ Each file contains the demonstration examples provided to the LLM during few-sho
 
 ---
 
-## 7. `df_test_{i}.csv`
+## 7. `test_{i}.csv`
 
 Test datasets used in each experimental fold.
 
